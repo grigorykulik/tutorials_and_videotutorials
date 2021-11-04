@@ -1,4 +1,4 @@
-package baeldung.a_guide_to_nio_2_filevisitor.file_visitor_example;
+package baeldung.a_guide_to_nio_2_filevisitor;
 
 import java.io.IOException;
 import java.nio.file.FileVisitResult;
