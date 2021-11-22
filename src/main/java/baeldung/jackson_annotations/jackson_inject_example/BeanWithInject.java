@@ -1,4 +1,4 @@
-package baeldung.jackson_annotations.JacksomInjectExample;
+package baeldung.jackson_annotations.jackson_inject_example;
 
 import com.fasterxml.jackson.annotation.JacksonInject;
 
