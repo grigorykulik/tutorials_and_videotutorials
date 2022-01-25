@@ -24,5 +24,10 @@ public class Example4 {
         ObjectMapper mapper = new ObjectMapper();
         mapper.writeValue(writer, house);
         System.out.println(writer.toString());
+
+//        House house2 = new House();
+//        house2 = new ObjectMapper()
+//                .readerFor(House.class)
+//                .readValue()
     }
 }
